@@ -19,4 +19,4 @@ PHP, JavaScript, jQuery, AJAX, Bootstrap, MySQL.
 
 1. This MIS Web App has been hosted on 000webhost so you can simply go to: https://acetrainingsystem.000webhostapp.com/website/html/index.html
 
-To register yourself you have to then press enrol, after that you can simply login and use my MIS.
+Simply go to the link you will be ready to enrol yourself!
